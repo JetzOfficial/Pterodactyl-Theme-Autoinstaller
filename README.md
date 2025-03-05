@@ -31,5 +31,5 @@ bash <(curl -s https://raw.githubusercontent.com/JetzOffcial/Pterodactyl-Theme-A
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ Skyzoe ](https://github.com/JetzOfficial)
+- Recode By [ JetzOfficial ](https://github.com/JetzOfficial)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
